@@ -1,0 +1,13 @@
+# To install these Python dependencies, please type:
+# pip install -r requirement.txt
+
+numpy
+matplotlib
+tqdm
+dlib
+opencv-python
+scipy
+librosa
+typing
+python_speech_features
+scikit-image
